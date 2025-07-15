@@ -1,6 +1,6 @@
 # Terraform-HCL
 
-# 🚀 Launch EC2 Instance with Terraform (Modular Setup)
+<h2> 🚀 Launch EC2 Instance with Terraform (Modular Setup) </h2>
 
 This Terraform project launches an EC2 instance in AWS using a clean and modular HCL structure. It includes configuration for the instance, security group, key pair, and provider.
 

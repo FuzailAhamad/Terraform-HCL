@@ -44,6 +44,7 @@ bash
 
 
 🚀 How to Use
+
 1️⃣ Initialize the Project
 ```
 terraform init
